@@ -1,0 +1,7 @@
+{
+  "name": "Adafruit_AM2315",
+  "author": "Limor Fried/ladyada <info@adafruit.com>>",
+  "license": "BSD",
+  "version": "1.0.0",
+  "description": "Library code for AM2315 sensors"
+}
